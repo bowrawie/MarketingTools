@@ -1,4 +1,4 @@
-This tool uses the **Tweepy library** to interact with the Twitter API, and the schedule library to schedule the tweets to be sent at specific times. In this example, the script is set to tweet the message "Hello, world!" at 10:30 AM and 5:00 PM every day.
+This tool uses the **Tweepy library** to interact with the Twitter API, and the schedule library to schedule the tweets to be sent at specific times. In this example, the script is set to tweet the message "Hello, Twitter!" at 10:30 AM and 5:00 PM every day.
 
 ## Requirements
 - Tweepy library
